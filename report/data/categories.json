@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <div class=\"van-cell__value\">...</div> is not clickable at point (203, 80). Other element would receive the click: <div class=\"van-overlay\" style=\"z-index: 2001;\"></div>\n  (Session info: chrome=90.0.4430.212)",
+      "children" : [ {
+        "name" : "test_appointment",
+        "uid" : "ccb7c0c1338852a9",
+        "parentUid" : "1fc58d51370fa2f02a0d6e052adbed4d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1634520954156,
+          "stop" : 1634520957364,
+          "duration" : 3208
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1fc58d51370fa2f02a0d6e052adbed4d"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}

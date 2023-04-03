@@ -1,0 +1,117 @@
+{
+  "32680175fa01f2f9b03bf5abf07bcf49" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4194a5eae0af80a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628840624018,
+        "stop" : 1628840625123,
+        "duration" : 1105
+      }
+    } ]
+  },
+  "b6b00b2ef2e8c6907226670529fbd99c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "793840e1cdaa3d8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628840621845,
+        "stop" : 1628840624009,
+        "duration" : 2164
+      }
+    } ]
+  },
+  "79afa740752a064502f53e2384d12d2c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6604bbee79606061",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628840657739,
+        "stop" : 1628840665037,
+        "duration" : 7298
+      }
+    } ]
+  },
+  "f9d8f5b431e1aff19f9722519d0e1536" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "26118d23bf030444",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628840655473,
+        "stop" : 1628840657623,
+        "duration" : 2150
+      }
+    } ]
+  },
+  "9000f31b48430b8e7fdbbad7040f2082" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "235ffc9db01a640e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628840657628,
+        "stop" : 1628840657736,
+        "duration" : 108
+      }
+    } ]
+  },
+  "c5c686b918c4be2e55c65bdf28856a6b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea4f6caa58a17471",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.TimeoutException: Message:",
+      "time" : {
+        "start" : 1628840625129,
+        "stop" : 1628840648433,
+        "duration" : 23304
+      }
+    } ]
+  }
+}

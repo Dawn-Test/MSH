@@ -1,0 +1,85 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "L613",
+    "children" : [ {
+      "name" : "19896-MainThread",
+      "children" : [ {
+        "name" : "test_login[EBS-0058-Msh1234567]",
+        "uid" : "793840e1cdaa3d8d",
+        "parentUid" : "4b34f05aee5d98934b597e7de818099a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628840621845,
+          "stop" : 1628840624009,
+          "duration" : 2164
+        },
+        "flaky" : false,
+        "parameters" : [ "'Msh1234567'", "'EBS-0058'" ]
+      }, {
+        "name" : "test_home_page",
+        "uid" : "235ffc9db01a640e",
+        "parentUid" : "4b34f05aee5d98934b597e7de818099a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628840657628,
+          "stop" : 1628840657736,
+          "duration" : 108
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_page",
+        "uid" : "c4194a5eae0af80a",
+        "parentUid" : "4b34f05aee5d98934b597e7de818099a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628840624018,
+          "stop" : 1628840625123,
+          "duration" : 1105
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_appointment",
+        "uid" : "ea4f6caa58a17471",
+        "parentUid" : "4b34f05aee5d98934b597e7de818099a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628840625129,
+          "stop" : 1628840648433,
+          "duration" : 23304
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_empower",
+        "uid" : "6604bbee79606061",
+        "parentUid" : "4b34f05aee5d98934b597e7de818099a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628840657739,
+          "stop" : 1628840665037,
+          "duration" : 7298
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login[EBS-0058-Msh1234567]",
+        "uid" : "26118d23bf030444",
+        "parentUid" : "4b34f05aee5d98934b597e7de818099a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628840655473,
+          "stop" : 1628840657623,
+          "duration" : 2150
+        },
+        "flaky" : false,
+        "parameters" : [ "'Msh1234567'", "'EBS-0058'" ]
+      } ],
+      "uid" : "4b34f05aee5d98934b597e7de818099a"
+    } ],
+    "uid" : "cc5981bdd30b2d2ad659854043375a7b"
+  } ]
+}

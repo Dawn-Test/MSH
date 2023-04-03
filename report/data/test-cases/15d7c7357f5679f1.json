@@ -1,0 +1,116 @@
+{
+  "uid" : "15d7c7357f5679f1",
+  "name" : "test_home_page",
+  "fullName" : "script.test_empower.TestEmpower#test_home_page",
+  "historyId" : "9000f31b48430b8e7fdbbad7040f2082",
+  "time" : {
+    "start" : 1634520964244,
+    "stop" : 1634520965350,
+    "duration" : 1106
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestEmpower",
+    "time" : {
+      "start" : 1634520959911,
+      "stop" : 1634520962854,
+      "duration" : 2943
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击预授权预约",
+      "time" : {
+        "start" : 1634520964244,
+        "stop" : 1634520965350,
+        "duration" : 1106
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestEmpower::0",
+    "time" : {
+      "start" : 1634520973357,
+      "stop" : 1634520975944,
+      "duration" : 2587
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_empower"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmpower"
+  }, {
+    "name" : "host",
+    "value" : "L613"
+  }, {
+    "name" : "thread",
+    "value" : "24032-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_empower"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "15d7c7357f5679f1.json",
+  "parameterValues" : [ ]
+}

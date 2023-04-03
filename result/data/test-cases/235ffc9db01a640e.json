@@ -1,0 +1,91 @@
+{
+  "uid" : "235ffc9db01a640e",
+  "name" : "test_home_page",
+  "fullName" : "script.test_empower.TestEmpower#test_home_page",
+  "historyId" : "9000f31b48430b8e7fdbbad7040f2082",
+  "time" : {
+    "start" : 1628840657628,
+    "stop" : 1628840657736,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestEmpower",
+    "time" : {
+      "start" : 1628840651108,
+      "stop" : 1628840655472,
+      "duration" : 4364
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestEmpower::0",
+    "time" : {
+      "start" : 1628840665039,
+      "stop" : 1628840667582,
+      "duration" : 2543
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=2)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_empower"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestEmpower"
+  }, {
+    "name" : "host",
+    "value" : "L613"
+  }, {
+    "name" : "thread",
+    "value" : "19896-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_empower"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=2)" ]
+  },
+  "source" : "235ffc9db01a640e.json",
+  "parameterValues" : [ ]
+}

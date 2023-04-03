@@ -1,0 +1,7 @@
+"Status","Name","Duration in ms","Description"
+"passed","script.test_appointment.TestAppointment#test_login","2116",""
+"passed","script.test_empower.TestEmpower#test_empower","8000",""
+"passed","script.test_appointment.TestAppointment#test_page","108",""
+"broken","script.test_appointment.TestAppointment#test_appointment","3208",""
+"passed","script.test_empower.TestEmpower#test_home_page","1106",""
+"passed","script.test_empower.TestEmpower#test_login","1378",""

@@ -1,0 +1,61 @@
+[ {
+  "uid" : "6604bbee79606061",
+  "name" : "test_empower",
+  "time" : {
+    "start" : 1628840657739,
+    "stop" : 1628840665037,
+    "duration" : 7298
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "26118d23bf030444",
+  "name" : "test_login[EBS-0058-Msh1234567]",
+  "time" : {
+    "start" : 1628840655473,
+    "stop" : 1628840657623,
+    "duration" : 2150
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "793840e1cdaa3d8d",
+  "name" : "test_login[EBS-0058-Msh1234567]",
+  "time" : {
+    "start" : 1628840621845,
+    "stop" : 1628840624009,
+    "duration" : 2164
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c4194a5eae0af80a",
+  "name" : "test_page",
+  "time" : {
+    "start" : 1628840624018,
+    "stop" : 1628840625123,
+    "duration" : 1105
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "ea4f6caa58a17471",
+  "name" : "test_appointment",
+  "time" : {
+    "start" : 1628840625129,
+    "stop" : 1628840648433,
+    "duration" : 23304
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "235ffc9db01a640e",
+  "name" : "test_home_page",
+  "time" : {
+    "start" : 1628840657628,
+    "stop" : 1628840657736,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

@@ -1,0 +1,116 @@
+{
+  "uid" : "187403ed25befb76",
+  "name" : "test_page",
+  "fullName" : "script.test_appointment.TestAppointment#test_page",
+  "historyId" : "32680175fa01f2f9b03bf5abf07bcf49",
+  "time" : {
+    "start" : 1634520954045,
+    "stop" : 1634520954153,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestAppointment",
+    "time" : {
+      "start" : 1634520949053,
+      "stop" : 1634520951923,
+      "duration" : 2870
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击就诊预约",
+      "time" : {
+        "start" : 1634520954045,
+        "stop" : 1634520954153,
+        "duration" : 108
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_TestAppointment::0",
+    "time" : {
+      "start" : 1634520957514,
+      "stop" : 1634520959907,
+      "duration" : 2393
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_appointment"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAppointment"
+  }, {
+    "name" : "host",
+    "value" : "L613"
+  }, {
+    "name" : "thread",
+    "value" : "24032-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_appointment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "187403ed25befb76.json",
+  "parameterValues" : [ ]
+}
